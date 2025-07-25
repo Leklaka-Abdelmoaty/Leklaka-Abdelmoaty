@@ -33,14 +33,14 @@
 - 🎮 **Love Gaming & Anime**  
 - 🎨 **3D Blender & Video Editing Enthusiast**
 - 🤖 **ML Trying Person** (always learning more in Machine Learning)
-- 🏆 **Project:** [SuperMarko](#) <!-- Replace # with your repo/project link -->
+- 🏆 **Project:** [SuperMarko](https://github.com/3mr-5aled/SuperMarko-GUI) <!-- Replace # with your repo/project link -->
 - 🌱 Currently learning **Machine Learning**
 - 🤝 Open to collaborate on ML, Gaming, Creative, and Fun Projects
 - ❤️ **Support:** Stand With Palestine
 
 <!-- Insert your social links below -->
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](your-link) -->
-
+[LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](your-link)
 ---
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Skills
