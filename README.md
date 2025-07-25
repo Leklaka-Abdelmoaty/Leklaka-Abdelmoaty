@@ -40,9 +40,8 @@
 
 <!-- Insert your social links below -->
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](your-link) -->
-[LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](your-link)
 ---
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/omar-mohamed-abdelmoaty-67367a327?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bvb%2FoVMw3SDmVP1NDy4tgFg%3D%3D)
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Skills
 
 ### <img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/HEAD/src/programming-languages.gif" width="28"> Programming Languages
